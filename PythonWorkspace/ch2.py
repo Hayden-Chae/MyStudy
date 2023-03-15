@@ -138,4 +138,14 @@
 # status = "배송 완료"
 # print("주문상태 : " + status)
 
+# station = "사당"
+# station = "신도림"
+# station = "인천공항"
+# print(station + "행 열차가 들어오고 있습니다.")
 
+# status = "상품준비"
+# status = "배송 중"
+# # status = "배송 완료"
+# print(status)
+
+## 3/15일 복습 완료
